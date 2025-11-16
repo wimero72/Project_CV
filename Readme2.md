@@ -9,13 +9,13 @@ Este proyecto es la implementación de un Currículum Vitae (CV) estático utili
 ### 📋 Estructura de Archivos
 
 La carpeta del proyecto contiene la siguiente estructura, manteniendo una clara separación entre contenido, estilo e imágenes:
-
+```
 /Project_CV/ 
 ├── index.html # Estructura principal del CV. 
 ├── style.css # Hoja de estilos (Diseño del CV). 
 ├── Mi_Foto.png # Imagen de perfil utilizada en el CV. 
 └── README.md # Documentación del proyecto.
-
+```
 
 
 ---
