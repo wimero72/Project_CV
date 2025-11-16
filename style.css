@@ -16,10 +16,21 @@ body {
     background-color: #fff; /* Fondo blanco para el contenido */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
 }
-
+/* ESTILOS PARA LA FOTO DE PERFIL */
+.foto-perfil {
+    width: 150px; /* Tamaño del ancho */
+    height: 150px; /* Tamaño del alto */
+    object-fit: cover; /* Asegura que la imagen cubra el área sin deformarse */
+    border-radius: 50%; /* Hace la imagen circular */
+    border: 4px solid white; /* Borde blanco alrededor */
+    margin-bottom: 15px;
+    display: block; /* Para centrarla mejor */
+    margin-left: auto;
+    margin-right: auto;
+}
 /* ESTILOS DE CABECERA (PERFIL) */
 .perfil {
-    background-color: #007bff; /* Color azul primario */
+    background-color: #1ca73a; /* Color azul primario */
     color: white;
     padding: 40px 20px;
     text-align: center;
@@ -58,8 +69,8 @@ body {
 }
 
 .seccion-cv h2 {
-    color: #007bff;
-    border-bottom: 2px solid #007bff;
+    color: #1ca73a;
+    border-bottom: 2px solid #1ca73a;
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
