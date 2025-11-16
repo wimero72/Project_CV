@@ -4,7 +4,7 @@
 
 Este proyecto es la implementación de un Currículum Vitae (CV) estático utilizando las tecnologías fundamentales de desarrollo web: **HTML5** para la estructura y **CSS3** para el diseño. Es la primera actividad de maquetación del curso **Front End Web Developer - UOC**.
 
-'''
+---
 
 ### 📋 Estructura de Archivos
 
@@ -18,7 +18,7 @@ La carpeta del proyecto contiene la siguiente estructura, manteniendo una clara 
 
 
 
-'''
+---
 
 ### 🎯 Objetivos de la Actividad (UOC - Front End Web Developer)
 
